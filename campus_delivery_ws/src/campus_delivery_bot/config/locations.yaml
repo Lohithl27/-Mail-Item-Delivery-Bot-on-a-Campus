@@ -1,0 +1,9 @@
+delivery_dispatcher:
+  ros__parameters:
+    locations:
+      - "mail_room:-0.7,-1.0,0.0"
+      - "library:3.6,1.2,0.0"
+      - "lab:-2.8,2.5,1.57"
+      - "admin:2.0,-2.8,-1.57"
+      - "hostel:-3.8,-2.0,3.14"
+      - "cafeteria:0.0,3.6,0.0"

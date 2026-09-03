@@ -1,0 +1,5 @@
+string pickup
+string destination
+---
+bool accepted
+string message
